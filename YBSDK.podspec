@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   YBSDK
                        DESC
 
-  s.homepage         = 'https://github.com/zcy/YBSDK'
+  s.homepage         = 'https://github.com/ncwubird/YBSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zcy' => '987484322@qq.com' }
-  s.source           = { :git => 'https://github.com/zcy/YBSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ncwubird/YBSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
